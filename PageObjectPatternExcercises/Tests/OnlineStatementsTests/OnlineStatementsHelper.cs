@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PageObjectPatternExcercises.Tests.OnlineStatementsTests
 {
-    public class OnlineStatementsHelper 
+    public class OnlineStatementsHelper
     {
         public static string Url = "http://zero.webappsecurity.com/bank/online-statements.html";
     }
